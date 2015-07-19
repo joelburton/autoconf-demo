@@ -7,3 +7,11 @@
 /depcomp
 /install-sh
 /missing
+/.deps/
+/Makefile
+/config.h
+/config.log
+/config.status
+/hello
+/hello-hello.o
+/stamp-h1
