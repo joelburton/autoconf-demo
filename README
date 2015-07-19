@@ -1,0 +1,7 @@
+This is a demonstration package of a tiny autoconf/automake.
+
+It will require GLib -- and it will find it if it's installed on your
+system.
+
+Joel Burton <joel@joelburton.com>
+
