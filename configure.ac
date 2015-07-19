@@ -7,7 +7,6 @@ AC_CONFIG_SRCDIR([hello.c])
 AC_CONFIG_HEADERS([config.h])
 
 # Checks for programs.
-AM_CFLAGS="-g -Wall -O3"
 AC_PROG_CC_C99
 AM_INIT_AUTOMAKE
 
