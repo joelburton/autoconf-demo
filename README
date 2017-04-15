@@ -3,5 +3,11 @@ This is a demonstration package of a tiny autoconf/automake.
 It will require GLib -- and it will find it if it's installed on your
 system.
 
+To make:
+
+$ autoreconf -fvi
+$ ./configure
+$ make
+
 Joel Burton <joel@joelburton.com>
 
